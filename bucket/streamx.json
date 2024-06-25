@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3-12-gf567e73",
+  "version": "0.3.3-13-gb8e301b",
   "description": "CLI for StreamX - preview version",
   "homepage": "https://www.streamx.dev",
   "license": "EULA",
-  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/0.3.3-12-gf567e73/streamx-0.3.3-12-gf567e73.zip",
-  "hash": "sha256:4864b7910ae83c95cce41210df41f9271c5221c2358e6aeba211642881263beb",
-  "extract_dir": "streamx-0.3.3-12-gf567e73",
+  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/0.3.3-13-gb8e301b/streamx-0.3.3-13-gb8e301b.zip",
+  "hash": "sha256:bf85b9bec8e2ba54940d57a9d4c9889efd8fc8a69ab1cd93a3b782946779c86a",
+  "extract_dir": "streamx-0.3.3-13-gb8e301b",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
