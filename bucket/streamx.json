@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7-4-gc24de53",
+  "version": "0.3.7-5-ge283616",
   "description": "CLI for StreamX - preview version",
   "homepage": "https://www.streamx.dev",
   "license": "EULA",
-  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/0.3.7-4-gc24de53/streamx-0.3.7-4-gc24de53.zip",
-  "hash": "sha256:1814faac8702c0519f8a5f6663dab732977705bacc302c9e5715cca3dc2021df",
-  "extract_dir": "streamx-0.3.7-4-gc24de53",
+  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/0.3.7-5-ge283616/streamx-0.3.7-5-ge283616.zip",
+  "hash": "sha256:5b8926a666b40713bf5a3c000f94f9323d0567d325ed538265886e3d6fcb72aa",
+  "extract_dir": "streamx-0.3.7-5-ge283616",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
