@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2-19-g7ea98a1",
+  "version": "1.0.2-20-gc7ff666",
   "description": "CLI for StreamX - preview version",
   "homepage": "https://www.streamx.dev",
   "license": "EULA",
-  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/1.0.2-19-g7ea98a1/streamx-1.0.2-19-g7ea98a1.zip",
-  "hash": "sha256:30e68a4d07d3ea0165cce00d807e0826328c488ee97906feb19fe89ae13051a1",
-  "extract_dir": "streamx-1.0.2-19-g7ea98a1",
+  "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/1.0.2-20-gc7ff666/streamx-1.0.2-20-gc7ff666.zip",
+  "hash": "sha256:22df23b7c8c77e6f0448e9240370d20040bb3a6b25c72f96c70f19eae9cec688",
+  "extract_dir": "streamx-1.0.2-20-gc7ff666",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
