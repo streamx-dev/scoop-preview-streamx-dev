@@ -4,7 +4,7 @@
     "homepage": "https://www.streamx.dev",
     "license": "EULA",
     "url": "https://github.com/streamx-dev/streamx-cli-preview/releases/download/1.0.2-24-g9c5c3d5/streamx-1.0.2-24-g9c5c3d5.zip",
-    "hash": "sha256:1bdf245762ab76e010b6922cf1f2231676361bbb508f746732e2051f2e640020",
+    "hash": "sha256:650911d3e8507ec7e142cad33a8d28e475a6d7d964bf710b71f401c5908c51a7",
     "extract_dir": "streamx-1.0.2-24-g9c5c3d5",
     "env_add_path": "bin",
     "suggest": {
